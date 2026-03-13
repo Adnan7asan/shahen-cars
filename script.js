@@ -25,28 +25,28 @@ const CARS_DATA = [
         id: 3,
         name: 'Kia K4',
         price: 150,
-        image: '<img src="images/k4.jpg" alt="kia k4" class="car-image">',
+        image: '<img src="k4.jpg" alt="kia k4" class="car-image">',
         features: ['5-Seater', 'AC', 'Automatic', 'Leather Seats']
     },
     {
         id: 4,
         name: 'Hyundai Creta',
         price: 100 ,
-        image: '<img src="images/creta.jpg" alt="Hyundai Creta" class="car-image">',
+        image: '<img src="creta.jpg" alt="Hyundai Creta" class="car-image">',
         features: ['5-Seater', 'AC', 'Automatic', 'Luxury']
     },
     {
         id: 5,
         name: 'Kia Carens',
         price: 140,
-        image: '<img src="images/carens.jpg" alt="Kia Carens" class="car-image">',
+        image: '<img src="carens.jpg" alt="Kia Carens" class="car-image">',
         features: ['7-Seater', 'AC', 'Automatic', 'SUV']
     },
     {
         id: 6,
         name: 'Hyundai Elantra',
         price: 110,
-        image: '<img src="images/elantra2.jpg" alt="Hyundai Elantra" claas=" car-image">',
+        image: '<img src="elantra2.jpg" alt="Hyundai Elantra" claas=" car-image">',
         features: ['5-Seater', 'AC', 'Manual', 'Budget-Friendly']
     }
 ];
