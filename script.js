@@ -11,7 +11,7 @@ const CARS_DATA = [
         id: 1,
         name: 'Hyundai Accent ',
         price: 110,
-        image: '<img src="images/ecsent.jpg" alt="Hyundai Accent" class="car-image">',
+        image: '<img src="ecsent.jpg" alt="Hyundai Accent" class="car-image">',
         features: ['5-Seater', 'AC', 'Automatic', 'Power Steering']
     },
     {
